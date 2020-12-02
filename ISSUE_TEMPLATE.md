@@ -1,7 +1,6 @@
 ## What happened?
-
-Please provide some details about the task you are trying to accomplish and
-what went wrong.
+<!-- Please provide some details about the task you are trying to accomplish
+and what went wrong. -->
 
 * What were you attempting to do?
 
@@ -10,10 +9,10 @@ what went wrong.
 * What was the actual behavior? Please provide log output, if possible.
 
 ## Build Configuration
+<!-- Please provide some details about your build configuration. -->
 
-Please provide some details about your build configuration.
-
-* What platform (`pack`, `kpack`, `tekton` buildpacks plugin, etc.) are you using? Please include a version.
+* What platform (`pack`, `kpack`, `tekton` buildpacks plugin, etc.) are you
+  using? Please include a version.
 
 * What buildpacks are you using? Please include versions.
 
@@ -24,9 +23,7 @@ Please provide some details about your build configuration.
   `nginx.conf`, etc.)?
 
 ## Checklist
-
-Please confirm the following:
-
+<!-- Please confirm the following -->
 * [ ] I have included log output.
 * [ ] The log output includes an error message.
 * [ ] I have included steps for reproduction.

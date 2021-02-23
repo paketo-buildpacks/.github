@@ -11,3 +11,4 @@ request please provide us with the following information: -->
 <!-- Please confirm the following -->
 * [ ] I have viewed, signed, and submitted the Contributor License Agreement.
 * [ ] I have added an integration test, if necessary.
+* [ ] I have reviewed the [styleguide](https://github.com/paketo-buildpacks/community/blob/main/STYLEGUIDE.md) for guidance on my code quality.

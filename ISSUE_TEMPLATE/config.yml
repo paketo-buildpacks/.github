@@ -1,0 +1,11 @@
+contact_links:
+  - name: Questions/Feedback
+    url: https://github.com/paketo-buildpacks/feedback/discussions
+    about: Have a general question or feedback for the project?
+  - name: Community Slack
+    url: https://slack.paketo.io/
+    about: Chat with the Paketo community.
+  - name: Found an issue with the Paketo.io docs?
+    url: https://github.com/paketo-buildpacks/paketo-website/issues
+    about: Please file an issue in the Paketo.io website repo.
+

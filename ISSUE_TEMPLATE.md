@@ -1,9 +1,3 @@
----
-name: "Bug \U0001F41B"
-about: Report a bug
-
----
-
 ## What happened?
 <!-- Please provide some details about the task you are trying to accomplish
 and what went wrong. -->

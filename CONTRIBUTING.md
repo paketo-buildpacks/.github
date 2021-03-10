@@ -55,6 +55,22 @@ buildpack repository. This nomination included links to contributions made as
 justification for nomination and was approved by a super-majority of the team
 maintainers.
 
+In order to contribute, you will need to complete CFF Contributor License Agreement.
+
+Start the authorization process by clicking
+[here](https://corporate.v1.easycla.lfx.linuxfoundation.org/) and selecting the
+"Cloud Foundry - Series LLCs" option.  If you are contributing code as an
+employee of a company click "Corporate", select the appropriate company from
+the list, then confirm your affiliation on the page that appears. If you are
+contributing as an individual, click "Individual". For further assistance with
+EasyCLA, please submit a support request ticket. The [linux-foundation-easycla
+bot](https://github.com/apps/linux-foundation-easycla) will automatically check
+if you are covered under the CLA when you make a contribution.
+
+The agreement documents that are signed during the above process can be found on the Paketo website:
+[Corportate CLA](https://paketo.io/ccla.pdf)
+[Individual CLA](https://paketo.io/icla.pdf)
+
 ### How do I become a maintainer?
 
 New maintainers must already be contributors, must be nominated by an existing

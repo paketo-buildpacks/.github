@@ -58,7 +58,7 @@ maintainers.
 In order to contribute, you will need to complete CFF Contributor License Agreement.
 
 Start the authorization process by clicking
-[here](https://corporate.v1.easycla.lfx.linuxfoundation.org/) and selecting the
+[here](https://easycla.lfx.linuxfoundation.org/) and selecting the
 "Cloud Foundry - Series LLCs" option.  If you are contributing code as an
 employee of a company click "Corporate", select the appropriate company from
 the list, then confirm your affiliation on the page that appears. If you are

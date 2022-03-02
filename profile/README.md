@@ -1,4 +1,4 @@
-![Paketo Buildpacks](./logo.png)
+![Paketo Buildpacks](./profile/logo.png)
 
 # What are Paketo Buildpacks?
 

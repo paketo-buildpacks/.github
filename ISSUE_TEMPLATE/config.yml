@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Questions
+    url: https://github.com/orgs/paketo-buildpacks/discussions
+    about: Have a general question?
+  - name: Have a Conversation
+    url: https://paketobuildpacks.slack.com
+    about: Looking to have a conversation or get realtime feedback? Join us on Slack!

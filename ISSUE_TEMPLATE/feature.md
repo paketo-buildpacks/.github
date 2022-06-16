@@ -2,7 +2,7 @@
 name: Feature
 about: Feature Request
 title: ''
-labels: type:enhancement
+labels: 'type:enhancement'
 assignees: ''
 
 ---

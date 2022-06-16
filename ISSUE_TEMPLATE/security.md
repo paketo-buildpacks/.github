@@ -2,7 +2,7 @@
 name: Security
 about: Security Report
 title: ''
-labels: type:bug
+labels: 'type:bug'
 assignees: ''
 
 ---

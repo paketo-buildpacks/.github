@@ -1,6 +1,6 @@
 ---
-name: Feature
-about: Feature Request
+name: Request a Feature
+about: Missing functionality? Need additional capabilities? Suggest an enhancement.
 title: ''
 labels: 'type:enhancement'
 assignees: ''

@@ -2,7 +2,7 @@
 
 Paketo Buildpacks provides a single point of contact for the reporting of security vulnerabilities in our codebases and coordinates the process of investigating any reports. Please limit notifications to those vulnerabilites that are not already disclosed publicly or belong to software that is owned by Paketo Buildpacks. To notify of vulnerabilites in other software impacting Paketo Buildpacks codebases, please file an issue in the impacted codebase.
 
-**Please do not ever disclose a security vulnerability for the first time in a public forum**
+**Please do not ever disclose a security vulnerability for the first time in a public forum.**
 
 ## Prerequisites
 

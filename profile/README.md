@@ -1,4 +1,4 @@
-![Paketo Buildpacks](logo.png)
+![Paketo Buildpacks](https://raw.githubusercontent.com/paketo-buildpacks/.github/main/profile/logo.png)
 ![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/5938/badge)   
 
 <html>

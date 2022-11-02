@@ -26,6 +26,10 @@ Watch [this quick demo](https://youtu.be/d_L_AZyocWA) produced by the Cloud Nati
 
 Go to the [**Getting Started**](https://paketo.io/docs/) guides and try it yourself!
 
+# How do Paketo Buildpacks relate to the Cloud Native Buildpacks project?
+ 
+Paketo Buildpacks implement the Buildpack API described in the [Cloud Native Buildpacks Specification](https://github.com/buildpacks/spec). The build and detect phases of Paketo Buildpacks are designed to be run by the [CNB lifecycle](https://buildpacks.io/docs/concepts/components/lifecycle/).
+
 
 # Join the Paketo open source community
 

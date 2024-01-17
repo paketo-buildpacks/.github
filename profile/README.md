@@ -44,7 +44,7 @@ meeting](https://github.com/paketo-buildpacks/community#working-group-meetings).
 
 - **When:** 60 minutes, alternating weekly at Tuesday at 18:00 UTC and Wednesday at 15:00 UTC  
 - **Where:** [Zoom bridge](https://zoom.us/j/99479390622?pwd=VVlkdTJGV1lxZ1pycTZKcCtPNENWZz09)  
-- **Agenda and minutes:** [Google doc](https://docs.google.com/document/d/1V1jtZmjpivMsWdoYOrGlaK4exoIezn2r4Lf3XcPxduQ/edit?usp=sharing)  
+- **Agenda and minutes:** [Google doc](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)  
 - **Subscribe to the [public calendar](https://lists.paketo.io/g/main/ics/11180210/825925082/feed.ics)**  
 - **What:** Join to discuss about RFCs, ask questions to the maintainers team, see [how others are using buildpacks](https://github.com/paketo-buildpacks/community/blob/main/ADOPTERS.md) in their
 environment, or BYOB (bring your own buildpacks!) to share, discuss, and get

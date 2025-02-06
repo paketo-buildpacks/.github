@@ -43,7 +43,7 @@ Check out what’s going on in the Paketo Buildpacks community by joining a
 meeting](https://github.com/paketo-buildpacks/community#working-group-meetings).
 
 - **When:** 60 minutes, alternating weekly at Tuesday at 18:00 UTC and Wednesday at 15:00 UTC  
-- **Where:** [Zoom bridge](https://zoom.us/j/99479390622?pwd=VVlkdTJGV1lxZ1pycTZKcCtPNENWZz09)  
+- **Where:** [Tuesday Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92311815319?password=89a788a6-0ccc-4b48-8713-b9630f037a22), [Wednesday Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/94250502436?password=071d3ba3-6a7b-4f44-8f79-d8baf394a411)
 - **Agenda and minutes:** [Google doc](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)  
 - **Subscribe to the [public calendar](https://lists.paketo.io/g/main/ics/11180210/825925082/feed.ics)**  
 - **What:** Join to discuss about RFCs, ask questions to the maintainers team, see [how others are using buildpacks](https://github.com/paketo-buildpacks/community/blob/main/ADOPTERS.md) in their

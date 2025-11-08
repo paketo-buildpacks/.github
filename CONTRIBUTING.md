@@ -50,12 +50,9 @@ Once this history has been established, you may self-nominate or be nominated
 by an existing contributor or maintainer. Each new contributor must be elected
 by a super-majority of the team maintainers.
 
-One way to self-nominate is by creating an issue on the language-family repo
-for a given team. You can find an example of a [self-nomination
-issue](https://github.com/paketo-buildpacks/ruby/issues/409) on the Ruby
-buildpack repository. This nomination included links to contributions made as
-justification for nomination and was approved by a super-majority of the team
-maintainers.
+One way to self-nominate is by creating a discussion thread under the 
+language-family for a given team, such as [this examle of a self-nomination
+](https://github.com/orgs/paketo-buildpacks/discussions/335).
 
 In order to contribute, you will need to complete CFF Contributor License Agreement.
 

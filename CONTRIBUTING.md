@@ -24,7 +24,7 @@ We also have a [`help wanted`](https://github.com/search?q=org%3Apaketo-buildpac
 ## Where can I reach out to the team?
 
 - _Want to report concerns/bugs?_ Create an issue on the affected repo.
-- _Usage issues/help?_ Reach out to us on [Slack](https://slack.paketo.io/).
+- _Usage issues/help?_ Reach out to us on [Slack](https://join.slack.com/t/paketobuildpacks/shared_invite/zt-2jayv12ro-eTP8AtcmvyIpEtlANfIb~g).
 - _Want to participate in deeper architectural discussions?_ Attend our weekly
   [working group
   meetings](https://github.com/paketo-buildpacks/community#working-group-meetings).
